@@ -33,8 +33,8 @@ http://is.am/5nrr
 ======CÁ HEO TV======
   
 
-#EXTINF:-1 group-title="CÁ HEO TV" tvg-logo="https://i.imgur.com/8bwS8gV.jpeg",20:30 06/05|🔴 Trực tiếp U17 BALAN vs BỈ|BLV GIÀNG NHÀ ĐÀI
-https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@m303nd/playlist.m3u8
+#EXTINF:-1 group-title="CÁ HEO TV" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/445ef89e5620a875f7c2eaddd033e39d.png!w100&m2=https://img.thesports.com/football/team/445ef89e5620a875f7c2eaddd033e39d.png!w100",15:00 07/05|🔴 Trực tiếp U17 CHINA vs U17 ÚC|BLV CHU DU
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@chudu/playlist.m3u8
 #https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@momsd1/playlist.m3u8
 
 #EXTINF:-1 group-title="CÁ HEO TV" tvg-logo="https://i.imgur.com/8bwS8gV.jpeg",02:00 07/05|🔴 Trực tiếp CRYSTAL PALACE vs MU|BLV H+
