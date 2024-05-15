@@ -21,6 +21,17 @@ https://7pal.short.gy/spersppl
 #EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png" group-title="Sports", Supersport_Football-FHD
 https://7pal.short.gy/sperspfb
 
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport1-FHD
+http://85.237.89.6:9590/ar-s/bein-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport2-FHD
+http://85.237.89.6:9590/ar-s/bein-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport3-FHD
+http://85.237.89.6:9590/ar-s/bein-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 1 
 https://7pal.short.gy/event1
