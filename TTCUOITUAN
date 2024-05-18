@@ -39,7 +39,20 @@ http://85.237.89.6:9590/ar-s/bein-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport3-FHD
 http://85.237.89.6:9590/ar-s/bein-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport4-FHD
+http://85.237.89.6:9590/ar-s/bein-4-stop-TimeSheft/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport5-FHD
+http://85.237.89.6:9590/ar-s/bein-5-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport6-FHD
+http://85.237.89.6:9590/ar-s/bein-6-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport7-FHD
+http://85.237.89.6:9590/ar-s/bein-7-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport8-FHD
+http://85.237.89.6:9590/ar-s/bein-8-stop-TimeSheft/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="Events", Event 1 
