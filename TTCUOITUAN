@@ -17,6 +17,11 @@ http://s3zen.myclip.vn/video1/2023/09/14/11/6a48e047/6a48e047-de73-4ec2-b384-547
 ========XEM NGOẠI HẠNG=========
 
 
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://171.238.181.52:18080/226.m3u8
+
+
 #EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png" group-title="Sports", Supersport_Premier_League-FHD
 https://m3u8.qr-build.club/u27zO1TPi6zwYUuvEIOBOg/1715981155/uk_itv1/tracks-v1a1/mono.m3u8|Referer=https://play.ezyproxy.xyz/
 
